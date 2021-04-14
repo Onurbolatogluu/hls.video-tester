@@ -53,7 +53,7 @@ module.exports = {
     abr: true,
   },
   fdr: {
-    url: 'https://cdn.jwplayer.com/manifests/pZxWPRg4.m3u8',
+    url: 'https://wciyan0b.rocketcdn.com/atv/atv.smil/playlist.m3u8',
     description: 'FDR - CDN packaged, 4s segments, 180p - 1080p',
     abr: true,
   },
